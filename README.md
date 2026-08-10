@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👾 Daniel Souza
-
+file:///C:/Users/Usuario/Downloads/download.jfif
 ### Developer • Game Dev • Creative Technology
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=C%23+Developer;Unity+Game+Developer;Blender+%26+3D;ESP32+%26+Electronics;Building+weird+things+with+code..." />
