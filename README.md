@@ -20,8 +20,10 @@ public class Daniel
     string[] mainSkills =
     {
         "C#",
+        "Java"
         "Unity",
-        "Blender"
+        "C4D",
+        "Graphic Designer",
     };
 
     string[] interests =
@@ -30,7 +32,6 @@ public class Daniel
         "Procedural Generation",
         "Artificial Intelligence",
         "Computer Vision",
-        "ESP32",
         "Electronics",
         "Creative Technology"
     };
@@ -140,7 +141,6 @@ Meu interesse é usar hardware não apenas para automação tradicional, mas par
 🌎 Procedural Generation
 🤖 Artificial Intelligence
 👁 Computer Vision
-🔌 ESP32
 ⚡ Electronics
 🧊 3D Modeling
 🧪 Experimental Technology
