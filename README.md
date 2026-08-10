@@ -1,327 +1,203 @@
 <div align="center">
 
-# 𓃠 DAN SOUZA 𓆏
+# 👾 Daniel Souza
 
-### `developer / observer / builder`
+### Developer • Game Dev • Creative Technology
 
-<br>
-
-```id="vj4pgh"
-         /\_/\
-        ( o.o )       [ SYSTEM ACTIVE ]
-         > ^ <
-
-    something is always watching.
-```
-
-`CODE`　·　`GAMES`　·　`HARDWARE`　·　`NATURE`　·　`EXPERIMENTS`
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=3000&pause=1200&color=696969&center=true&vCenter=true&width=650&lines=observe.;understand.;experiment.;build+something+weird." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=C%23+Developer;Unity+Game+Developer;Blender+%26+3D;ESP32+%26+Electronics;Building+weird+things+with+code..." />
 
 </div>
 
 ---
 
-## `01 // SPECIMEN`
+## 🧠 About Me
 
-```yaml id="b6ch0c"
-name: Daniel Souza
-alias: DanSouza999
-origin: Brazil
-
-occupation:
-  - developer
-  - game developer
-  - observer of strange things
-
-tools:
-  - C#
-  - Unity
-  - Blender
-
-currently_poking:
-  - ESP32
-  - sensors
-  - electronics
-  - computer vision
-  - procedural systems
-
-condition: curious
-```
-
-<br>
-
-I like computers.
-
-I also like things that computers have a hard time understanding.
-
-Animals.
-Fungi.
-Environments.
-Behavior.
-Randomness.
-
-So naturally, I keep wondering what happens when both worlds meet.
-
----
-
-## `02 // FIELD NOTES`
-
-```id="xz4lre"
-┌──────────────────────────────────────────────┐
-│                                              │
-│   SOFTWARE                         NATURE     │
-│      │                               │       │
-│      │            ???                │       │
-│      └─────────────┬─────────────────┘       │
-│                    │                         │
-│                    ▼                         │
-│               EXPERIMENTS                    │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
-Things that currently occupy my brain:
-
-`GAME DEVELOPMENT`
-
-`PROCEDURAL SYSTEMS`
-
-`ANIMAL BEHAVIOR`
-
-`FUNGI & MYCELIUM`
-
-`ELECTRONICS`
-
-`SENSORS`
-
-`COMPUTER VISION`
-
-`ARTIFICIAL INTELLIGENCE`
-
-`WEIRD INTERFACES`
-
----
-
-## `03 // TOOLS FOUND ON THE DESK`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,unity,blender,vscode,git,github&theme=dark" />
-
-<br><br>
-
-`C#`　　`UNITY`　　`BLENDER`　　`GIT`
-
-</div>
-
-<br>
-
-```id="gxtlyr"
-SOFTWARE
-│
-├── C# .................... ████████░░
-├── Unity ................. ████████░░
-├── Git ................... ██████░░░░
-│
-HARDWARE
-│
-├── ESP32 ................. ███░░░░░░░
-├── Sensors ............... ███░░░░░░░
-└── Electronics ........... ██░░░░░░░░
-
-                  ↑
-          still learning...
-```
-
----
-
-# `04 // CURRENT OBSERVATION`
-
-<div align="center">
-
-## ☾ LAST WAY HOME
-
-`02:47 AM`
-
-`NO SIGNAL`
-
-`12% BATTERY`
-
-</div>
-
-<br>
-
-> You drank too much.
->
-> You don't remember exactly where you are.
->
-> You just need to get home.
-
-<br>
-
-A psychological horror game set in a Brazilian city during the middle of the night.
-
-The streets look familiar.
-
-The houses look normal.
-
-People behave almost normally.
-
-**Almost.**
-
-<br>
-
-<div align="center">
-
-`UNITY 6`
-
-`C#`
-
-`URP`
-
-`PROCEDURAL WORLD`
-
-`PSX / LOW POLY`
-
-`PSYCHOLOGICAL HORROR`
-
-</div>
-
----
-
-## `05 // FAUNA DATABASE`
-
-```id="4qtcso"
-SPECIMEN_001
-────────────────────────────────
-
-        /\_/\
-       ( -.- )
-        > ^ <
-
-classification: FELIS CATUS
-status: observing developer
-threat_level: unknown
-
-
-SPECIMEN_002
-────────────────────────────────
-
-         __
-        (  )
-       (    )
-        \__/
-
-classification: FUNGI
-network: mycelium
-status: communicating?
-threat_level: probably fine
-
-
-SPECIMEN_003
-────────────────────────────────
-
-       __
-     _(  )_
-    /      \
-   |  o  o  |
-    \  __  /
-     \____/
-
-classification: HOMO SAPIENS
-specimen: developer
-status: debugging
-threat_level: mostly harmless
-```
-
----
-
-## `06 // POSSIBLE EXPERIMENTS`
-
-```id="bn9syu"
-[ SENSOR ] ────────────────┐
-                           │
-[ CAMERA ] ────────────────┤
-                           ▼
-                      [ COMPUTER ]
-                           │
-                           ▼
-                       observe()
-                           │
-             ┌─────────────┼─────────────┐
-             ▼             ▼             ▼
-          animal         fungi       environment
-         behavior        growth         signals
-```
-
-Not everything needs to become a product.
-
-Sometimes I just want to **observe something that exists** and build a machine that lets me see it differently.
-
----
-
-## `07 // RANDOM THOUGHT`
-
-```csharp id="crd5q7"
-public void Observe(World world)
+```csharp
+public class Daniel
 {
-    while (world.IsDoingSomethingWeird())
-    {
-        AskWhy();
-        BuildSomething();
-        Test();
+    string username = "DanSouza999";
 
-        if (somethingBroke)
-            Learn();
-    }
+    string[] mainSkills =
+    {
+        "C#",
+        "Unity",
+        "Blender"
+    };
+
+    string[] interests =
+    {
+        "Game Development",
+        "Procedural Generation",
+        "Artificial Intelligence",
+        "Computer Vision",
+        "ESP32",
+        "Electronics",
+        "Creative Technology"
+    };
+
+    bool alwaysLearning = true;
 }
 ```
 
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e gosto principalmente de desenvolver projetos que misturam **programação, jogos, criatividade e tecnologia experimental**.
+
+Atualmente estou explorando principalmente **C#, Unity, Blender e ESP32**, além de estudar geração procedural, inteligência artificial e eletrônica.
+
 ---
 
-## `08 // ACTIVITY`
+## 🛠️ Main Stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DanSouza999&show_icons=true&theme=transparent&hide_border=true&title_color=707070&text_color=606060&icon_color=505050" />
+<img src="https://skillicons.dev/icons?i=cs,unity,blender,git,github,vscode" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanSouza999&layout=compact&theme=transparent&hide_border=true&title_color=707070&text_color=606060" />
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
 
 </div>
 
 ---
 
-## `09 // END OF FIELD NOTE`
+# 🎮 Game Development
+
+Atualmente trabalhando e estudando sistemas como:
+
+* Procedural Generation
+* First Person Systems
+* Interaction Systems
+* Procedural Interiors
+* Environmental Storytelling
+* NPC Systems
+* Psychological Horror
+* PSX / Low Poly Graphics
+
+---
+
+## 🌙 Current Project
+
+### LAST WAY HOME
+
+```text
+Psychological Horror
+Brazilian Setting
+Procedural World
+PSX / Low Poly
+Unity 6
+C#
+```
+
+> Um jogo de terror psicológico ambientado em uma cidade brasileira durante a madrugada.
+
+O jogador acorda depois de uma noite de bebedeira tentando encontrar o caminho de volta para casa.
+
+Conforme a caminhada continua, a cidade começa lentamente a apresentar eventos impossíveis.
+
+Tecnologias e sistemas utilizados:
+
+```text
+Unity 6
+C#
+URP
+Procedural Generation
+Runtime Interiors
+Interaction Systems
+NPC AI
+Environmental Events
+```
+
+---
+
+# ⚡ Hardware & Experiments
+
+Também estou começando a explorar projetos envolvendo:
 
 <div align="center">
 
-```id="2ix2wu"
-       /\_/\
-      ( o.o )
-       > ^ <
+<img src="https://img.shields.io/badge/ESP32-Microcontroller-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sensors-Physical_Computing-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Electronics-Experiments-orange?style=flat-square"/>
 
-the computer is running.
+</div>
 
-the sensor is blinking.
+<br>
 
-something moved.
+Meu interesse é usar hardware não apenas para automação tradicional, mas para criar **experimentos, sensores, interfaces e formas diferentes de conectar software ao mundo físico**.
 
-probably nothing.
+---
+
+# 🔬 Interests
+
+```text
+🎮 Game Development
+🌎 Procedural Generation
+🤖 Artificial Intelligence
+👁 Computer Vision
+🔌 ESP32
+⚡ Electronics
+🧊 3D Modeling
+🧪 Experimental Technology
+🎨 Creative Coding
 ```
 
-<br>
+---
 
-`[ DAN SOUZA // DanSouza999 ]`
+# 📚 Currently Learning
 
-<br>
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=DanSouza999&style=flat-square&color=111111&label=OBSERVERS"/>
+<img src="https://img.shields.io/badge/C%23-Learning-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Unity-Learning-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ESP32-Exploring-E7352C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Electronics-Exploring-orange?style=for-the-badge"/>
 
-<br><br>
+</div>
 
-`EOF`
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanSouza999&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanSouza999&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=DanSouza999&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DanSouza999/DanSouza999/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `> Building. Breaking. Learning. Rebuilding.`
+
+<img src="https://komarev.com/ghpvc/?username=DanSouza999&color=blueviolet&style=flat-square&label=PROFILE+VIEWS"/>
 
 </div>
