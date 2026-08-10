@@ -1,8 +1,22 @@
+<div align="center">
+
 # Daniel Souza
 
 ### Developer • Game Dev • Creative Technology
 
----
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=7F5AF0&center=true&vCenter=true&width=700&lines=C%23+Developer;Unity+Game+Developer;Cinema+4D+%26+3D;Procedural+Systems;Artificial+Intelligence;Computer+Vision;Experimental+Projects"
+  alt="Typing SVG"
+/>
+
+<br>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7F5AF0"
+  width="100%"
+/>
+
+</div>
 
 ## 🧠 About Me
 
@@ -59,18 +73,9 @@ Atualmente estou explorando principalmente **C#, Unity e Cinema 4D**, além de e
 &nbsp;&nbsp;
 
 <a href="#️-main-stack">
-  <img width="55" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git">
-</a>
-&nbsp;&nbsp;
-
-<a href="#️-main-stack">
   <img width="55" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub">
 </a>
 &nbsp;&nbsp;
-
-<a href="#️-main-stack">
-  <img width="55" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="VS Code">
-</a>
 
 <br><br>
 
@@ -90,9 +95,20 @@ Atualmente estou explorando principalmente **C#, Unity e Cinema 4D**, além de e
 
 ---
 
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1800&pause=600&color=8B8B8B&center=true&vCenter=true&width=700&lines=%3E+building+systems...;%3E+breaking+systems...;%3E+understanding+why...;%3E+building+again..."
+  alt="Dev loop"
+/>
+
+</div>
+
+---
+
 ## 🎮 Game Development
 
-Atualmente trabalhando e estudando sistemas como:
+Tenho interesse principalmente em desenvolver e estudar sistemas relacionados a:
 
 - Procedural Generation
 - First Person Systems
@@ -108,22 +124,22 @@ Atualmente trabalhando e estudando sistemas como:
 
 ## 🌙 Current Project
 
+<div align="center">
+
 ### LAST WAY HOME
 
-```text
-Psychological Horror
-Brazilian Setting
-Procedural World
-PSX / Low Poly
-Unity 6
-C#
-```
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=9D7CD8&center=true&vCenter=true&width=600&lines=Psychological+Horror;Brazilian+Setting;Procedural+World;PSX+%2F+Low+Poly;Unity+6+%2B+C%23"
+  alt="Last Way Home"
+/>
+
+</div>
 
 > Um jogo de terror psicológico ambientado em uma cidade brasileira durante a madrugada.
 
 O jogador acorda depois de uma noite de bebedeira tentando encontrar o caminho de volta para casa.
 
-Conforme a caminhada continua, a cidade começa lentamente a apresentar eventos impossíveis.
+Conforme a caminhada continua, a cidade começa lentamente a apresentar eventos impossíveis. 
 
 ### Technologies & Systems
 
@@ -142,8 +158,6 @@ Environmental Events
 
 ## 🧪 Experimental Projects
 
-Nem todo projeto precisa ter uma finalidade específica.
-
 Também gosto de experimentar com ideias que misturam **software, tecnologia, observação e criatividade**, criando pequenos projetos simplesmente para descobrir o que é possível fazer.
 
 ```text
@@ -155,7 +169,14 @@ Procedural Systems
 Software + Physical World
 ```
 
-> Sometimes the experiment is the project.
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2600&pause=1000&color=6E6E6E&center=true&vCenter=true&width=600&lines=sometimes+the+experiment+is+the+project.;sometimes+the+bug+is+the+interesting+part."
+  alt="Experimental Projects"
+/>
+
+</div>
 
 ---
 
@@ -254,7 +275,10 @@ Software + Physical World
 
 <div align="center">
 
-### `> Building. Breaking. Learning. Rebuilding.`
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2300&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=%3E+Building.;%3E+Breaking.;%3E+Learning.;%3E+Rebuilding."
+  alt="Building Breaking Learning Rebuilding"
+/>
 
 <br>
 
@@ -264,5 +288,12 @@ Software + Physical World
     alt="Profile Views"
   >
 </a>
+
+<br><br>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0D1117,50:512BD4,100:7F5AF0"
+  width="100%"
+/>
 
 </div>
