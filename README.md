@@ -1,17 +1,6 @@
-<div align="center">
-
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://media.discordapp.net/attachments/1534025962361192611/1536317533337030737/primo_trampo_trampo_sem_fundo_tomara.png?ex=6a7af6b3&is=6a79a533&hm=067f68c29eb109c8102c797e324b42e24d943b07d3f78489657896c242fa3394&=&format=webp&quality=lossless&width=1217&height=1280" />
-  
-</div>
-
 # Daniel Souza
 
 ### Developer • Game Dev • Creative Technology
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=C%23+Developer;Unity+Game+Developer;Blender+%26+3D;ESP32+%26+Electronics;Building+weird+things+with+code..." alt="Typing SVG">
-
-</div>
 
 ---
 
@@ -26,7 +15,7 @@ public class Daniel
     {
         "C#",
         "Unity",
-        "C4D"
+        "Cinema 4D"
     };
 
     string[] interests =
@@ -35,18 +24,18 @@ public class Daniel
         "Procedural Generation",
         "Artificial Intelligence",
         "Computer Vision",
-        "ESP32",
-        "Electronics",
-        "Creative Technology"
+        "3D Art",
+        "Creative Technology",
+        "Experimental Projects"
     };
 
     bool alwaysLearning = true;
 }
 ```
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e gosto principalmente de desenvolver projetos que misturam **programação, jogos, criatividade e tecnologia experimental**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e gosto principalmente de desenvolver projetos que misturam **programação, jogos, arte 3D e tecnologia experimental**.
 
-Atualmente estou explorando principalmente **C#, Unity, Blender e ESP32**, além de estudar geração procedural, inteligência artificial e eletrônica.
+Atualmente estou explorando principalmente **C#, Unity e Cinema 4D**, além de estudar geração procedural, inteligência artificial, computer vision e diferentes formas de creative coding.
 
 ---
 
@@ -65,7 +54,7 @@ Atualmente estou explorando principalmente **C#, Unity, Blender e ESP32**, além
 &nbsp;&nbsp;
 
 <a href="#️-main-stack">
-  <img width="55" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Blender-Dark.svg" alt="Blender">
+  <img width="55" src="https://cdn.simpleicons.org/cinema4d" alt="Cinema 4D">
 </a>
 &nbsp;&nbsp;
 
@@ -94,29 +83,26 @@ Atualmente estou explorando principalmente **C#, Unity, Blender e ESP32**, além
 </a>
 
 <a href="#️-main-stack">
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
-</a>
-
-<a href="#️-main-stack">
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
+  <img src="https://img.shields.io/badge/Cinema%204D-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white" alt="Cinema 4D">
 </a>
 
 </div>
 
 ---
 
-# 🎮 Game Development
+## 🎮 Game Development
 
 Atualmente trabalhando e estudando sistemas como:
 
-* Procedural Generation
-* First Person Systems
-* Interaction Systems
-* Procedural Interiors
-* Environmental Storytelling
-* NPC Systems
-* Psychological Horror
-* PSX / Low Poly Graphics
+- Procedural Generation
+- First Person Systems
+- Interaction Systems
+- Procedural Interiors
+- Environmental Storytelling
+- NPC Systems
+- Psychological Horror
+- PSX / Low Poly Graphics
+- Experimental Game Mechanics
 
 ---
 
@@ -139,7 +125,7 @@ O jogador acorda depois de uma noite de bebedeira tentando encontrar o caminho d
 
 Conforme a caminhada continua, a cidade começa lentamente a apresentar eventos impossíveis.
 
-Tecnologias e sistemas utilizados:
+### Technologies & Systems
 
 ```text
 Unity 6
@@ -154,85 +140,113 @@ Environmental Events
 
 ---
 
-# ⚡ Hardware & Experiments
+## 🧪 Experimental Projects
 
-Também estou começando a explorar projetos envolvendo:
+Nem todo projeto precisa ter uma finalidade específica.
 
-<div align="center">
+Também gosto de experimentar com ideias que misturam **software, tecnologia, observação e criatividade**, criando pequenos projetos simplesmente para descobrir o que é possível fazer.
 
-<img src="https://img.shields.io/badge/ESP32-Microcontroller-red?style=flat-square" alt="ESP32">
+```text
+Creative Coding
+Computer Vision
+Artificial Intelligence
+Experimental Interfaces
+Procedural Systems
+Software + Physical World
+```
 
-<img src="https://img.shields.io/badge/Sensors-Physical_Computing-blue?style=flat-square" alt="Sensors">
-
-<img src="https://img.shields.io/badge/Electronics-Experiments-orange?style=flat-square" alt="Electronics">
-
-</div>
-
-<br>
-
-Meu interesse é usar hardware não apenas para automação tradicional, mas para criar **experimentos, sensores, interfaces e formas diferentes de conectar software ao mundo físico**.
+> Sometimes the experiment is the project.
 
 ---
 
-# 🔬 Interests
+## 🔬 Interests
 
 ```text
 🎮 Game Development
 🌎 Procedural Generation
 🤖 Artificial Intelligence
-👁 Computer Vision
-🔌 ESP32
-⚡ Electronics
-🧊 3D Modeling
-🧪 Experimental Technology
+👁️ Computer Vision
+🧊 3D Art
+🧪 Experimental Projects
 🎨 Creative Coding
+⚙️ Creative Technology
 ```
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C%23-Learning-512BD4?style=for-the-badge" alt="C# Learning">
+<a href="#-currently-learning">
+  <img src="https://img.shields.io/badge/C%23-Learning-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+</a>
 
-<img src="https://img.shields.io/badge/Unity-Learning-black?style=for-the-badge" alt="Unity Learning">
+<a href="#-currently-learning">
+  <img src="https://img.shields.io/badge/Unity-Learning-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+</a>
 
-<img src="https://img.shields.io/badge/ESP32-Exploring-E7352C?style=for-the-badge" alt="ESP32 Exploring">
+<a href="#-currently-learning">
+  <img src="https://img.shields.io/badge/Cinema%204D-Exploring-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white" alt="Cinema 4D">
+</a>
 
-<img src="https://img.shields.io/badge/Electronics-Exploring-orange?style=for-the-badge" alt="Electronics Exploring">
+<a href="#-currently-learning">
+  <img src="https://img.shields.io/badge/Computer%20Vision-Exploring-222222?style=for-the-badge" alt="Computer Vision">
+</a>
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DanSouza999&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Daniel GitHub Stats">
+<a href="#-github-stats">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=DanSouza999&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Daniel GitHub Stats"
+  >
+</a>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanSouza999&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Daniel Top Languages">
+<a href="#-github-stats">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanSouza999&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="Daniel Top Languages"
+  >
+</a>
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DanSouza999&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+<a href="#-contribution-streak">
+  <img
+    src="https://streak-stats.demolab.com?user=DanSouza999&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  >
+</a>
 
 </div>
 
 ---
 
-# 🐍 Contributions
+## 🐍 Contributions
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DanSouza999/DanSouza999/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
+<a href="#-contributions">
+  <img
+    src="https://raw.githubusercontent.com/DanSouza999/DanSouza999/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution Snake"
+  >
+</a>
 
 </div>
 
@@ -242,6 +256,13 @@ Meu interesse é usar hardware não apenas para automação tradicional, mas par
 
 ### `> Building. Breaking. Learning. Rebuilding.`
 
-<img src="https://komarev.com/ghpvc/?username=DanSouza999&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
+<br>
+
+<a href="#daniel-souza">
+  <img
+    src="https://komarev.com/ghpvc/?username=DanSouza999&color=blueviolet&style=flat-square&label=PROFILE+VIEWS"
+    alt="Profile Views"
+  >
+</a>
 
 </div>
