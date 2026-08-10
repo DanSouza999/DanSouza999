@@ -1,7 +1,6 @@
 <div align="center">
 
-# 👾 Daniel Souza
-file:///C:/Users/Usuario/Downloads/download.jfif
+# https://media.discordapp.net/attachments/1534025962361192611/1536317533337030737/primo_trampo_trampo_sem_fundo_tomara.png?ex=6a7af6b3&is=6a79a533&hm=067f68c29eb109c8102c797e324b42e24d943b07d3f78489657896c242fa3394&=&format=webp&quality=lossless&width=1217&height=1280 Daniel Souza
 ### Developer • Game Dev • Creative Technology
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=C%23+Developer;Unity+Game+Developer;Blender+%26+3D;ESP32+%26+Electronics;Building+weird+things+with+code..." />
