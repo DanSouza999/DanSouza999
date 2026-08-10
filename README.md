@@ -52,8 +52,6 @@ Atualmente estou explorando principalmente **C#, Unity, Blender e ESP32**, além
 
 ## 🛠️ Main Stack
 
-## 🛠️ Main Stack
-
 <div align="center">
 
 <a href="#️-main-stack">
