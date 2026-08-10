@@ -52,38 +52,56 @@ Atualmente estou explorando principalmente **C#, Unity, Blender e ESP32**, além
 
 ## 🛠️ Main Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs" width="55" alt="C#">
-&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=unity" width="55" alt="Unity">
-&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=blender" width="55" alt="Blender">
-&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=git" width="55" alt="Git">
-&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub">
-&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=vscode" width="55" alt="VS Code">
-
-</div>
-
-<br>
+## 🛠️ Main Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+<a href="#️-main-stack">
+  <img width="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1920px-Logo_C_sharp.svg.png" alt="C#">
+</a>
+&nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+<a href="#️-main-stack">
+  <img width="55" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Unity-Dark.svg" alt="Unity">
+</a>
+&nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
+<a href="#️-main-stack">
+  <img width="55" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Blender-Dark.svg" alt="Blender">
+</a>
+&nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
+<a href="#️-main-stack">
+  <img width="55" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git">
+</a>
+&nbsp;&nbsp;
+
+<a href="#️-main-stack">
+  <img width="55" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub">
+</a>
+&nbsp;&nbsp;
+
+<a href="#️-main-stack">
+  <img width="55" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="VS Code">
+</a>
+
+<br><br>
+
+<a href="#️-main-stack">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+</a>
+
+<a href="#️-main-stack">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+</a>
+
+<a href="#️-main-stack">
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
+</a>
+
+<a href="#️-main-stack">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
+</a>
 
 </div>
 
