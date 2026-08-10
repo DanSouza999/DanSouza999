@@ -1,203 +1,213 @@
 <div align="center">
 
-# 👾 Daniel Souza
+<br>
 
-### Developer • Game Dev • Creative Technology
+```
+██████╗  █████╗ ███╗   ██╗
+██╔══██╗██╔══██╗████╗  ██║
+██║  ██║███████║██╔██╗ ██║
+██║  ██║██╔══██║██║╚██╗██║
+██████╔╝██║  ██║██║ ╚████║
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=C%23+Developer;Unity+Game+Developer;Blender+%26+3D;ESP32+%26+Electronics;Building+weird+things+with+code..." />
+### `DAN // SOUZA`
+
+`SOFTWARE`　`GAME DEV`　`HARDWARE`　`EXPERIMENTS`
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=800&color=8A8A8A&center=true&vCenter=true&width=600&lines=building+things+I+don't+fully+understand+yet...;breaking+them...;understanding+why...;building+again." />
+
+<br>
+
+`[ SYSTEM ONLINE ]`
 
 </div>
 
 ---
 
-## 🧠 About Me
+### `> WHOAMI`
+
+```yaml
+user: DanSouza999
+location: Brazil
+
+role:
+  - developer
+  - game developer
+  - professional button presser
+
+currently_exploring:
+  - C#
+  - Unity
+  - Blender
+  - ESP32
+  - Electronics
+
+status: probably debugging something
+```
+
+I like building things.
+
+Sometimes it's a game system.
+
+Sometimes it's hardware.
+
+Sometimes it's something that probably shouldn't exist.
+
+Most of the time I'm just curious enough to see what happens.
+
+---
+
+### `> ./CURRENT_PROJECT`
+
+<table>
+<tr>
+<td width="60%">
+
+## LAST WAY HOME
+
+**Psychological Horror / Procedural World**
+
+A man wakes up somewhere in a Brazilian city after a night of drinking.
+
+It's late.
+
+His phone is almost dead.
+
+He just needs to get home.
+
+The city has other plans.
+
+<br>
+
+`UNITY 6` `C#` `URP`
+
+`PROCEDURAL GENERATION`
+
+`PSX / LOW POLY`
+
+`PSYCHOLOGICAL HORROR`
+
+</td>
+
+<td width="40%" align="center">
+
+```
+02:47
+
+NO SIGNAL
+
+BATTERY 12%
+
+18 MISSED CALLS
+
+
+> find your way home_
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### `> INTERESTS`
+
+```
+GAME DEVELOPMENT ──────────────── █████████░
+PROCEDURAL SYSTEMS ────────────── █████████░
+3D / BLENDER ──────────────────── ███████░░░
+ELECTRONICS ───────────────────── ██████░░░░
+ESP32 / SENSORS ───────────────── █████░░░░░
+COMPUTER VISION ───────────────── ███░░░░░░░
+ARTIFICIAL INTELLIGENCE ───────── ███░░░░░░░
+UNDERSTANDING WHAT I'M DOING ──── ██░░░░░░░░
+```
+
+---
+
+### `> TOOLBOX`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,unity,blender,git,github,vscode&theme=dark" />
+
+<br><br>
+
+`C#`　`UNITY`　`BLENDER`　`GIT`
+
+</div>
+
+---
+
+### `> HARDWARE`
+
+```
+DEVICE_01 .............. ESP32
+DEVICE_02 .............. SENSORS
+DEVICE_03 .............. RANDOM ELECTRONICS
+
+OBJECTIVE:
+
+connect software
+      ↓
+to something physical
+      ↓
+see what happens
+```
+
+Current curiosity:
+
+**physical computing / sensors / electronics / experimental interfaces**
+
+---
+
+### `> PHILOSOPHY.cs`
 
 ```csharp
-public class Daniel
+while (alive)
 {
-    string username = "DanSouza999";
-
-    string[] mainSkills =
+    if (curious)
     {
-        "C#",
-        "Unity",
-        "Blender"
-    };
-
-    string[] interests =
-    {
-        "Game Development",
-        "Procedural Generation",
-        "Artificial Intelligence",
-        "Computer Vision",
-        "ESP32",
-        "Electronics",
-        "Creative Technology"
-    };
-
-    bool alwaysLearning = true;
+        build();
+        breakSomething();
+        understandWhy();
+        buildAgain();
+    }
 }
 ```
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e gosto principalmente de desenvolver projetos que misturam **programação, jogos, criatividade e tecnologia experimental**.
-
-Atualmente estou explorando principalmente **C#, Unity, Blender e ESP32**, além de estudar geração procedural, inteligência artificial e eletrônica.
-
 ---
 
-## 🛠️ Main Stack
+### `> GITHUB_ACTIVITY`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,unity,blender,git,github,vscode" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DanSouza999&show_icons=true&theme=transparent&hide_border=true&title_color=777777&text_color=777777&icon_color=555555" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanSouza999&layout=compact&theme=transparent&hide_border=true&title_color=777777&text_color=777777" />
 
 </div>
+
+---
+
+<div align="center">
 
 <br>
 
-<div align="center">
+```
+[ LOG_999 ]
 
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-
-</div>
-
----
-
-# 🎮 Game Development
-
-Atualmente trabalhando e estudando sistemas como:
-
-* Procedural Generation
-* First Person Systems
-* Interaction Systems
-* Procedural Interiors
-* Environmental Storytelling
-* NPC Systems
-* Psychological Horror
-* PSX / Low Poly Graphics
-
----
-
-## 🌙 Current Project
-
-### LAST WAY HOME
-
-```text
-Psychological Horror
-Brazilian Setting
-Procedural World
-PSX / Low Poly
-Unity 6
-C#
+there are still things
+I want to understand.
 ```
 
-> Um jogo de terror psicológico ambientado em uma cidade brasileira durante a madrugada.
+<img src="https://komarev.com/ghpvc/?username=DanSouza999&style=flat-square&color=111111&label=VISITORS"/>
 
-O jogador acorda depois de uma noite de bebedeira tentando encontrar o caminho de volta para casa.
+<br><br>
 
-Conforme a caminhada continua, a cidade começa lentamente a apresentar eventos impossíveis.
-
-Tecnologias e sistemas utilizados:
-
-```text
-Unity 6
-C#
-URP
-Procedural Generation
-Runtime Interiors
-Interaction Systems
-NPC AI
-Environmental Events
-```
-
----
-
-# ⚡ Hardware & Experiments
-
-Também estou começando a explorar projetos envolvendo:
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/ESP32-Microcontroller-red?style=flat-square"/>
-<img src="https://img.shields.io/badge/Sensors-Physical_Computing-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Electronics-Experiments-orange?style=flat-square"/>
-
-</div>
-
-<br>
-
-Meu interesse é usar hardware não apenas para automação tradicional, mas para criar **experimentos, sensores, interfaces e formas diferentes de conectar software ao mundo físico**.
-
----
-
-# 🔬 Interests
-
-```text
-🎮 Game Development
-🌎 Procedural Generation
-🤖 Artificial Intelligence
-👁 Computer Vision
-🔌 ESP32
-⚡ Electronics
-🧊 3D Modeling
-🧪 Experimental Technology
-🎨 Creative Coding
-```
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/C%23-Learning-512BD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Unity-Learning-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ESP32-Exploring-E7352C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Electronics-Exploring-orange?style=for-the-badge"/>
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanSouza999&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanSouza999&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=DanSouza999&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/DanSouza999/DanSouza999/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-<div align="center">
-
-### `> Building. Breaking. Learning. Rebuilding.`
-
-<img src="https://komarev.com/ghpvc/?username=DanSouza999&color=blueviolet&style=flat-square&label=PROFILE+VIEWS"/>
+`EOF`
 
 </div>
