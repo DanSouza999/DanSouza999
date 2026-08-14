@@ -49,7 +49,7 @@ public class Daniel
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e gosto principalmente de desenvolver projetos que misturam **programação, jogos, arte 3D e tecnologia experimental**.
 
-Atualmente estou explorando principalmente **C#, Unity e Cinema 4D**, além de estudar geração procedural, inteligência artificial, computer vision e diferentes formas de creative coding.
+Atualmente estou explorando principalmente **C#, Java e Unity**, além de estudar geração procedural, inteligência artificial, computer vision e diferentes formas de creative coding.
 
 ---
 
